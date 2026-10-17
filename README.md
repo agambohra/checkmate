@@ -5,7 +5,7 @@ A personal day-by-day checklist planner built with HTML, CSS, and vanilla JavaSc
 ## Features
 
 - Multiple named checklists with separate days and completion progress
-- Eleven themes, including Sage, Midnight, and an illustrated Bubu–Dudu theme
+- Nineteen themes, including Sage, Midnight, and an illustrated Bubu–Dudu theme
 - AI import from pasted text, CSV, TSV, Markdown, JSON, and TXT
 - Bring your own OpenAI API key; the key stays in page memory and is not saved
 - Local browser storage and JSON backup export/import
