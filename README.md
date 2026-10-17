@@ -1,2 +1,19 @@
-# checkmate
-A day-by-day checklist planner with multiple checklists, 11 themes, and bring-your-own-key AI import.
+# Checkmate
+
+A personal day-by-day checklist planner built with HTML, CSS, and vanilla JavaScript.
+
+## Features
+
+- Multiple named checklists with separate days and completion progress
+- Eleven themes, including Sage, Midnight, and an illustrated Bubu–Dudu theme
+- AI import from pasted text, CSV, TSV, Markdown, JSON, and TXT
+- Bring your own OpenAI API key; the key stays in page memory and is not saved
+- Local browser storage and JSON backup export/import
+
+## Hosting
+
+GitHub Pages publishes the `docs/` directory from `main`. No build step is needed.
+
+## Data
+
+Checklists are stored in your browser, not on GitHub. Export a backup before moving to another browser or site address. AI conversion sends the submitted content directly to OpenAI and uses the API account associated with your key.
